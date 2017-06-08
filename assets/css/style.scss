@@ -7,3 +7,10 @@
   display: none;
 }
 
+@media (min-width: 600px) {
+  img {
+    float: left;
+    width: 44%;
+    margin-right: 20px;
+  }
+}
