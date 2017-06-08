@@ -9,27 +9,27 @@ Please feel free to [submit a pull request](https://kirstiejane.github.io/friend
 ## THE BIBLE AND THE DIVINE NAME
 ### ROTATING EXHIBIT
 * 515
-  * The oldest Bible on display, ancient Syriac Bible
+  * [The oldest Bible on display, ancient Syriac Bible](https://www.jw.org/en/publications/magazines/wp20140901/syriac-peshitta/)
 * 552, 553, 554 
-  * Tyndales New Testament
+  * [Tyndales New Testament](http://www.bl.uk/onlinegallery/sacredtexts/tyndale.html)
 * 533 
-  * Complutensian Polyglot Bible  
+  * [Complutensian Polyglot Bible](https://en.wikipedia.org/wiki/Complutensian_Polyglot_Bible)
 * 566, 567 
-  * Reina Bible - First Edition
+  * [Reina Bible - First Edition](https://en.wikipedia.org/wiki/Reina-Valera)
 * 574 
-  * List of prohibited books
+  * [List of prohibited books](https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum)
 * 588 
   * Chinese Bible
  
 ### STANDARD EXHIBIT
 * 183 
-  * First Edition King James Version
+  * [First Edition King James Version](https://en.wikipedia.org/wiki/King_James_Version)
 * 186 
-  * Reina Valera Bible, Spanish
+  * [Reina Valera Bible, Spanish](https://en.wikipedia.org/wiki/Reina-Valera)
 * 192 
   * Jehovah Bible
 * 224 
-  * Julia Smith, Translation by a woman
+  * [Julia Smith, Translation by a woman](https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation)
 * 242 
   * Nuremberg Polyglot
  
