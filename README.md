@@ -64,6 +64,16 @@ Please feel free to [submit a pull request](https://kirstiejane.github.io/friend
   * Christmas at Bethel (Outstanding)
 * 876, 877, 878, 879, 880 
   * Story of Sibia boat told by missionary that served on it
+* 891
+  * Br. Knorr Gilead Graduation Talk
+* 906
+  * Br. Knorr releasing the New World Translation
+* 951
+  * Childrens bedtime story on WBBR
+* 959
+  * Very old recorded message from missionary to wife
+* 969
+  * Table with hidden compartment in Nazi Germany
 
 ## FAITH IN ACTION
 ----
