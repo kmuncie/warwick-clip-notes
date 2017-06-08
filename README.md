@@ -2,7 +2,7 @@
 
 # Warwick Gems
 
-This is a collection of information that will be useful to anyone visiting Warwick Bethel It contains subjectively, our favorite audio clips in the [Warwick Bethel Museums](https://www.jw.org/en/jehovahs-witnesses/offices/united-states/), and in the future some suggested local attractions that you may find helpful. 
+This is a collection of information that will be useful to anyone visiting Warwick Bethel. It contains subjectively, our favorite audio clips in the [Warwick Bethel Museums](https://www.jw.org/en/jehovahs-witnesses/offices/united-states/), and in the future some suggested local attractions that you may find helpful. 
 
 Please feel free to [submit a pull request](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/) to add your own favorites!
 
