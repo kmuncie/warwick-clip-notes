@@ -61,7 +61,7 @@ Please feel free to [submit a pull request](https://kirstiejane.github.io/friend
 * 876, 877, 878, 879, 880 
   * Story of Sibia boat told by missionary that served on it
 * 891
-  * Br. Knorr Gilead Graduation Talk
+  * Br. Franz concluding remarks to Gilead class
 * 906
   * Br. Knorr releasing the New World Translation
 * 951
