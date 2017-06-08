@@ -1,7 +1,3 @@
----
-title: Warwick Gems - Information for visiting Bethel
----
-
 ![Warwick Bethel, Winter 2017](https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/16229069_1854090301473542_2732960356996481024_n.jpg)
 
 # Warwick Gems
