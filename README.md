@@ -1,8 +1,8 @@
 ![Warwick Bethel, Winter 2017](https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/16229069_1854090301473542_2732960356996481024_n.jpg)
 
-# Warwick Bethel "ClipNotes"
+# Warwick Gems
 
-This is a collection of, subjectively, our favorite audio clips in the [Warwick Bethel Museums](https://www.jw.org/en/jehovahs-witnesses/offices/united-states/). 
+This is a collection of information that will be useful to anyone visiting Warwick Bethel It contains subjectively, our favorite audio clips in the [Warwick Bethel Museums](https://www.jw.org/en/jehovahs-witnesses/offices/united-states/), and in the future some suggested local attractions that you may find helpful. 
 
 Please feel free to [submit a pull request](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/) to add your own favorites!
 
