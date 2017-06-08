@@ -1,4 +1,10 @@
-This is a collection of, subjectively, our favorite audio clips in the Warwick Bethel Museums. Please feel free to submit a pull request to add your own favorites!
+![Warwick Bethel, Winter 2017](https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/16229069_1854090301473542_2732960356996481024_n.jpg)
+
+# Warwick Bethel "ClipNotes"
+
+This is a collection of, subjectively, our favorite audio clips in the [Warwick Bethel Museums](https://www.jw.org/en/jehovahs-witnesses/offices/united-states/). 
+
+Please feel free to [submit a pull request](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/) to add your own favorites!
 
 ## THE BIBLE AND THE DIVINE NAME
 ----
@@ -6,10 +12,10 @@ This is a collection of, subjectively, our favorite audio clips in the Warwick B
 ### ROTATING EXHIBIT
 * 515
   * The oldest Bible on display, ancient Syriac Bible
-* 533 
-  * Complutensian Polyglot Bible
 * 552, 553, 554 
   * Tyndales New Testament
+* 533 
+  * Complutensian Polyglot Bible  
 * 566, 567 
   * Reina Bible - First Edition
 * 574 
@@ -38,14 +44,14 @@ This is a collection of, subjectively, our favorite audio clips in the Warwick B
   * Story of postmaster in Virginia
 * 811
   * Baptist member
-* 826
-  * Counsel on giving long talks
-* 824 
-  * Deep study in early days
-* 823 
-  * Pilgrims and Russell artifacts
 * 815, 816 
   * Photodrama of Creation story
+* 823 
+  * Pilgrims and Russell artifacts
+* 824 
+  * Deep study in early days
+* 826
+  * Counsel on giving long talks
 * 836 
   * Printers in Africa
 * 837
