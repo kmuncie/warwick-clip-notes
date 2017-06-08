@@ -7,8 +7,6 @@ This is a collection of, subjectively, our favorite audio clips in the [Warwick 
 Please feel free to [submit a pull request](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/) to add your own favorites!
 
 ## THE BIBLE AND THE DIVINE NAME
-----
-
 ### ROTATING EXHIBIT
 * 515
   * The oldest Bible on display, ancient Syriac Bible
@@ -35,9 +33,7 @@ Please feel free to [submit a pull request](https://kirstiejane.github.io/friend
 * 242 
   * Nuremberg Polyglot
  
-## A PEOPLE FOR JEHOVAH’S NAME
-----
- 
+## A PEOPLE FOR JEHOVAH’S NAME 
 * 805 
   * Zion's Watchtower Letter
 * 807 
@@ -76,4 +72,3 @@ Please feel free to [submit a pull request](https://kirstiejane.github.io/friend
   * Table with hidden compartment in Nazi Germany
 
 ## FAITH IN ACTION
-----
