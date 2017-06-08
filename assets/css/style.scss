@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+.main-content h2 {
+  background-color: gainsboro;
+  padding: 5px;
+}
+
+.main-content h2 > h3 {
+  magin-top: 0;
+}
+
 .page-header {
   display: none;
 }
