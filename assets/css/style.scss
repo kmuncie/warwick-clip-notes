@@ -24,10 +24,12 @@ ul {
     font-size: 22px;
     font-weight: bold;
     > ul {
-      font-size: 14px;
-      padding-left: 50px;
       list-style: disc;
-      font-weight: normal;
+      padding-left: 50px;
+      > li {
+        font-size: 16px;
+        font-weight: normal;
+      }
     }
   }
 }
