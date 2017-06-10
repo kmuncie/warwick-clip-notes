@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+.bannerImage {
+  height: 20vh;
+  width: 100%;
+  background: url(assets/warwickPano.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .main-content h2 {
   background-color: gainsboro;
   padding: 5px;
