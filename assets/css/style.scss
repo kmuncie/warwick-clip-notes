@@ -27,10 +27,14 @@ p {
 h1 {
   color: #ffffff;
   margin: 5vh 0;
-  font-size: 10vw;
+  font-size: 15vw;
   @media (min-width: 600px) {
-    font-size: 5vw;
+    font-size: 10vw;
   }
+}
+
+.main-content {
+  font-size: 1.4rem;
 }
 
 .main-content h2 {
