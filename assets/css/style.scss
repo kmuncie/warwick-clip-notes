@@ -27,9 +27,11 @@ p {
 h1 {
   color: #ffffff;
   margin: 5vh 0;
+  font-size: 50px; // fallback
   font-size: 15vw;
+  text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.53); 
   @media (min-width: 600px) {
-    font-size: 10vw;
+    font-size: 6vw;
   }
 }
 
