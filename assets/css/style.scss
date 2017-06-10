@@ -8,6 +8,21 @@
   width: 100%;
   background: url(../warwickPano.jpg) no-repeat center center; 
   background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+h1 {
+  color: #ffffff;
+  margin: 5vh 0;
+  font-size: 10vw;
+  @media (min-width: 600px) {
+    font-size: 5vw;
+  }
 }
 
 .main-content h2 {
@@ -21,14 +36,6 @@
 
 .page-header {
   display: none;
-}
-
-@media (min-width: 600px) {
-  img {
-    float: left;
-    width: 44%;
-    margin-right: 20px;
-  }
 }
 
 ul {
