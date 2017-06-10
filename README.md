@@ -61,7 +61,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 906
   * Br. Knorr releasing the New World Translation
 * 951
-  * Childrens bedtime story on WBBR
+  * Childrens' bedtime story on WBBR
 * 959
   * Very old recorded message from missionary to wife
 * 969
