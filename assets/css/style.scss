@@ -51,6 +51,7 @@ h1 {
     font-size: 6vw;
   }
   @media print {
+    font-size: 60px;
     margin: 0;
     color: #000000;
     text-shadow: none;
@@ -59,6 +60,9 @@ h1 {
 
 .main-content {
   font-size: 1.4rem;
+  @media print {
+    font-size: 0.8rem;
+  }
 }
 
 .main-content h2 {
