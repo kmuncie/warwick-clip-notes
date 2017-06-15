@@ -82,6 +82,12 @@ ul {
   }
 }
 
+@media print {
+  p {
+    display: none;
+  }
+}
+
 .printMessage {
   display: none;
   @media print {
