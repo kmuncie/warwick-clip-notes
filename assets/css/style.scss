@@ -61,7 +61,7 @@ h1 {
 .main-content {
   font-size: 1.4rem;
   @media print {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 }
 
@@ -69,6 +69,9 @@ h1 {
   border-bottom: 5px solid #777777;
   font-size: 200%;
   padding: 5px;
+  @media print {
+    font-size: 150%;
+  }
 }
 
 .main-content h2 + h3 {
@@ -95,6 +98,28 @@ ul {
         font-size: 16px;
         font-weight: 300;
         font-family: $para-font
+      }
+    }
+  }
+}
+
+@media print {
+  ul {
+    margin-bottom: 5px;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    > li {
+      font-size: 20px;
+      &:before {
+        content: "\2610";
+        margin-right:5px;
+      }
+      > ul {
+        padding-left: 30px;
+        > li {
+          font-size: 16px;
+        }
       }
     }
   }
