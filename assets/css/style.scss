@@ -117,8 +117,14 @@ ul {
       }
       > ul {
         padding-left: 30px;
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
         > li {
           font-size: 16px;
+          &:before {
+            display: none;
+          }
         }
       }
     }
