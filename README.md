@@ -18,12 +18,26 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
   * Chinese Bible
  
 ### STANDARD EXHIBIT
+* 109, 110
+  * Facsimile of [the Dead Sea Scroll, Book of Isaiah](https://wol.jw.org/en/wol/d/r1/lp-e/1001072081) 
+* 112, 113
+  * Reproduction of [the Moabite Stone](https://wol.jw.org/en/wol/d/r1/lp-e/1200273876)
+* 126
+  * Facsimile of [the Vatican Codex](https://wol.jw.org/en/wol/d/r1/lp-e/2009727)
+* 129, 130 
+  * [Aleppo Codex](https://wol.jw.org/en/wol/d/r1/lp-e/1200002893#h=23:361-23:641) 
+* 132 
+  * [Latin Vulgate](https://wol.jw.org/en/wol/d/r1/lp-e/1200273371) 
+* 179
+  * [Geneva Bible](https://wol.jw.org/en/wol/d/r1/lp-e/102004604)
 * 183 
   * [First Edition King James Version](https://en.wikipedia.org/wiki/King_James_Version)
 * 186 
   * [Reina Valera Bible, Spanish](https://en.wikipedia.org/wiki/Reina-Valera)
 * 192 
   * Jehovah Bible
+* 207
+  * [Bay Psalm](https://wol.jw.org/en/wol/d/r1/lp-e/2013122#h=25:0-25:416), the first piece of literature published in England’s American colonies in 1640.
 * 224 
   * [Julia Smith, Translation by a woman](https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation)
 * 242 
