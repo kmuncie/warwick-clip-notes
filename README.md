@@ -48,8 +48,14 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
   * Zion's Watchtower Letter
 * 807 
   * Story of postmaster in Virginia
+* 809
+  * Bible Students held their first large convention in 1893
 * 811
   * Baptist member
+* 812
+  * Public debate of C.T. Russel and well-known clergyman
+* 813
+  * 813 Around the world tour of C.T. Russel
 * 815, 816 
   * Photodrama of Creation story
 * 823 
@@ -58,16 +64,28 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
   * Deep study in early days
 * 826
   * Counsel on giving long talks
+* 827
+  * Experience of Emma Martin when she was imprisoned
+* 829
+  * Experience of [Herbert Senior](https://wol.jw.org/en/wol/d/r1/lp-e/1102014253#h=11) who was imprisoned in Britain for refusing military service
+* 844 
+  * Food pail used by a brother while imprisoned for his faith (Netherland)
 * 836 
   * Printers in Africa
 * 837
   * WBBR
+* 843
+  * Report card and class photo of Johanna Hartman (Germany)
 * 849 
   * Persecution blanket
+* 852
+  * Message written in his shirt to his family by a brother who were imprisoned for his faith (South Korea)
 * 734 
-  * Prison toilet paper
+  * Part of the "Live Forever" book hand written in prison toilet paper
 * 855, 856 
   * Christmas at Bethel (Outstanding)
+* 862 
+  * Experience of [Elsa Abt](https://wol.jw.org/en/wol/d/r1/lp-e/1102009076#h=25:0-25:853)
 * 876, 877, 878, 879, 880 
   * Story of Sibia boat told by missionary that served on it
 * 891
@@ -78,6 +96,8 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
   * Childrens' bedtime story on WBBR
 * 959
   * Very old recorded message from missionary to wife
+* 966, 967, 968
+  * Hidden Bibles of Andrei Hanak (Hungary), Simone Arnold (France), Manuel Rodriguez (Cuba)
 * 969
   * Table with hidden compartment in Nazi Germany
 
