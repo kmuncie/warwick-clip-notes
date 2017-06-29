@@ -55,7 +55,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 812
   * Public debate of C.T. Russel and well-known clergyman
 * 813
-  * 813 Around the world tour of C.T. Russel
+  * Around the world tour of C.T. Russel
 * 815, 816 
   * Photodrama of Creation story
 * 823 
