@@ -97,7 +97,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 959
   * Very old recorded message from missionary to wife
 * 966, 967, 968
-  * Hidden Bibles of Andrei Hanak (Hungary), Simone Arnold (France), Manuel Rodriguez (Cuba)
+  * Hidden Bibles of Andrei Hanak (Hungary), [Simone Arnold](https://wol.jw.org/en/wol/d/r1/lp-e/1200273453#h=267) (France), Manuel Rodriguez (Cuba)
 * 969
   * Table with hidden compartment in Nazi Germany
 
