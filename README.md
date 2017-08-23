@@ -6,10 +6,10 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 ### ROTATING EXHIBIT
 * 515
   * [The oldest Bible on display, ancient Syriac Bible](https://www.jw.org/en/publications/magazines/wp20140901/syriac-peshitta/)
-* 552, 553, 554 
-  * [Tyndales New Testament](http://www.bl.uk/onlinegallery/sacredtexts/tyndale.html)
 * 533 
   * [Complutensian Polyglot Bible](https://en.wikipedia.org/wiki/Complutensian_Polyglot_Bible)
+* 552, 553 
+  * [Tyndales New Testament](http://www.bl.uk/onlinegallery/sacredtexts/tyndale.html)
 * 566, 567 
   * [Reina Bible - First Edition](https://en.wikipedia.org/wiki/Reina-Valera)
 * 574 
@@ -92,6 +92,10 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
   * Br. Franz concluding remarks to Gilead class
 * 906
   * Br. Knorr releasing the New World Translation
+* 943
+  * "All Scripture is Beneficial" WBBR radio episode narrated by Ulysses Glass
+* 944
+  * Many Governing Body give comments on love and brotherhood 
 * 951
   * Childrens' bedtime story on WBBR
 * 959
