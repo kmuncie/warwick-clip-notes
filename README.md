@@ -81,7 +81,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 852
   * Message written in his shirt to his family by a brother who were imprisoned for his faith (South Korea)
 * 734 
-  * Part of the "Live Forever" book hand written in prison toilet paper
+  * Part of the "Live Forever" book hand written on prison toilet paper
 * 855, 856 
   * Christmas at Bethel (Outstanding)
 * 862 
