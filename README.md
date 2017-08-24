@@ -9,7 +9,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 533 
   * [Complutensian Polyglot Bible](https://en.wikipedia.org/wiki/Complutensian_Polyglot_Bible)
 * 552, 553 
-  * [Tyndales New Testament](http://www.bl.uk/onlinegallery/sacredtexts/tyndale.html)
+  * [Tyndale's New Testament](http://www.bl.uk/onlinegallery/sacredtexts/tyndale.html)
 * 566, 567 
   * [Reina Bible - First Edition](https://en.wikipedia.org/wiki/Reina-Valera)
 * 574 
@@ -39,7 +39,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 207
   * [Bay Psalm](https://wol.jw.org/en/wol/d/r1/lp-e/2013122#h=25:0-25:416), the first piece of literature published in England’s American colonies in 1640.
 * 224 
-  * [Julia Smith, Translation by a woman](https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation)
+  * [Julia Smith, translation by a woman](https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation)
 * 242 
   * Nuremberg Polyglot
  
@@ -53,9 +53,9 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 811
   * Baptist member
 * 812
-  * Public debate of C.T. Russel and well-known clergyman
+  * Public debate of C.T. Russell and well-known clergyman
 * 813
-  * Around the world tour of C.T. Russel
+  * Around the world tour of C.T. Russell
 * 815, 816 
   * Photodrama of Creation story
 * 823 
@@ -77,7 +77,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 843
   * Report card and class photo of Johanna Hartman (Germany)
 * 849 
-  * Persecution blanket
+  * Persecution blanket passed down from father to son
 * 852
   * Message written in his shirt to his family by a brother who were imprisoned for his faith (South Korea)
 * 734 
@@ -87,7 +87,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 862 
   * Experience of [Elsa Abt](https://wol.jw.org/en/wol/d/r1/lp-e/1102009076#h=25:0-25:853)
 * 876, 877, 878, 879, 880 
-  * Story of Sibia boat told by missionary that served on it
+  * Story of [Sibia boat](https://wol.jw.org/en/wol/d/r1/lp-e/2016601#h=39:0-40:66) told by missionary that served on it
 * 891
   * Br. Franz concluding remarks to Gilead class
 * 906
@@ -95,7 +95,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
 * 943
   * "All Scripture is Beneficial" WBBR radio episode narrated by Ulysses Glass
 * 944
-  * Many Governing Body give comments on love and brotherhood 
+  * Many Governing Body members give comments on love and brotherhood 
 * 951
   * Childrens' bedtime story on WBBR
 * 959
