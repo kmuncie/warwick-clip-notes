@@ -2,6 +2,11 @@ This is a collection of information that will be useful to anyone visiting Warwi
 
 If you would like to add to these lists, you can! Read how to [submit a pull request](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/) in order to add your own favorites. [Click here to see the source code for this website](https://github.com/kmuncie/warwick-gems).
 
+<div class="foodInfo">
+   <p>Visiting Warwick Bethel and want some resturant recommendations?</p>
+   <a href="/resturants.html">See Resturant Recommendations</a>
+</div>
+
 ## THE BIBLE AND THE DIVINE NAME
 ### ROTATING EXHIBIT
 * 515
