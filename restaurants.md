@@ -1,12 +1,12 @@
 <a href="/" class="backButton">< Back to main page</a>
 
-This is a curated list of some resutrants we have found to be of good quality and reasonable price range. We hope it helps you during your
+This is a curated list of some restaurants we have found to be of good quality and reasonable price range. We hope it helps you during your
 visit.
 
 ## Dottie Audrey's Bakery Kitchen
 $$ - 8 miles (12.8km) - [See on Google Maps](https://goo.gl/maps/4qeDUCVbgQm)
 
-Great nearby resturant for a quick breakfast pastry or sandwich with coffee, or a sit down lunch with a small but delicious menu. Very
+Great nearby restaurant for a quick breakfast pastry or sandwich with coffee, or a sit down lunch with a small but delicious menu. Very
 popular, busy on weekends especially during the summer
 
 ## Sushiville
@@ -26,13 +26,13 @@ $ - 7.5 miles (12km) - [See on Google Maps](https://goo.gl/maps/G66N2ffrzZS2)
 Quintessential New York bagels. This place ALWAYS has a line and for a reason. The line moves fast thanks to many employees, but be sure you
 know what you want when you get to the counter.
 
-## MexicanZingo Resturant
+## MexicanZingo Restaurant
 $ - 13 miles (21km) - [See on Google Maps](https://goo.gl/maps/kyaQayBGK7G2)
 
-Small Mexican sit down resturant with good $2.50 tacos. Fresh and as close to authentic as you can get out here.
+Small Mexican sit down restaurant with good $2.50 tacos. Fresh and as close to authentic as you can get out here.
 
 ## The Helm
 $$$ - 14 miles (22km) - [See on Google Maps](https://goo.gl/maps/KvmbhLV1hy92)
 
-We have heard many good things about this more upscale resturant on scenic Greenwood Lake. A menu full of delcious sounding food with nice
+We have heard many good things about this more upscale restaurant on scenic Greenwood Lake. A menu full of delcious sounding food with nice
 cocktails and beer options. A nice place to go out for the evening.
