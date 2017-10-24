@@ -143,3 +143,31 @@ ul {
     display: block;
   }
 }
+
+%button {
+   display: inline-block;
+   font-size: 15px;
+   padding: 10px;
+   background-color: #456882;
+   color: white;
+   font-weight: bold;
+   box-shadow: 2px 2px 5px black;
+   margin: 10px 0;
+}
+
+.backButton {
+   @extend %button;
+}
+
+.foodInfo {
+   background-color: #ffffe2;
+   border: 1px solid #ccc;
+   padding: 10px;
+   p {
+      margin: 0;
+      font-weight: bold;
+   }
+   a {
+      @extend %button;
+   }
+}
