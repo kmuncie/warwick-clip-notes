@@ -97,7 +97,7 @@ If you would like to add to these lists, you can! Read how to [submit a pull req
   * Br. Franz concluding remarks to Gilead class
 * 906
   * Br. Knorr releasing the New World Translation
-  930
+* 930
   * Sister relating how she observed the memorial by herself in secret
 * 943
   * "All Scripture is Beneficial" WBBR radio episode narrated by Ulysses Glass
