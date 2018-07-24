@@ -9,6 +9,11 @@ $$ - 8 miles (12.8km) - [See on Google Maps](https://goo.gl/maps/4qeDUCVbgQm)
 Great nearby restaurant for a quick breakfast pastry or sandwich with coffee, or a sit down lunch with a small but delicious menu. Very
 popular, busy on weekends especially during the summer
 
+## Keystone Hoagies
+$ - 8 miles (12.8km) - [See on Google Maps](https://goo.gl/maps/ds1yBTzK5PG2)
+
+Next door to Dottie Audrey's. A good lunch spot with large and diverse sandwich offerings.
+
 ## Sushiville
 $$ - 4 miles (6.5km) - [See on Google Maps](https://goo.gl/maps/oW2fPnWLCV82)
 
